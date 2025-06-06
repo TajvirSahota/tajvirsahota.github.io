@@ -1,7 +1,7 @@
 # tajvirsahota.github.io
 ### A Simple Portfolio Site Using Github Pages Theme ___
 #### 🚧 Under Construction 🚧
-[Tooj](https://tajvirsahota.github.io/)
+[Tooj's Site](https://tajvirsahota.github.io/)
 
 
 
